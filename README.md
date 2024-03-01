@@ -14,7 +14,7 @@ This Python script allows you to scrape the menu of a restaurant from Swiggy usi
 1. Clone the repository:
 
     ```
-    git clone https://github.com/your-username/swiggy_restaurant_menu.git
+    git clone https://github.com/mujjasaikumar/swiggy_restaurant_menu.git
     ```
 
 2. Install the required Python packages:
