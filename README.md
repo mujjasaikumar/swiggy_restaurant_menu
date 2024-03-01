@@ -35,6 +35,10 @@ This Python script allows you to scrape the menu of a restaurant from Swiggy usi
 
 4. The scraped menu will be saved as a CSV file with the restaurant name.
 
+## Custom Error Handling
+
+If the restaurant data is not present, the script will throw a custom error to notify the user.
+
 ## Requirements
 
 - Python 3.x
